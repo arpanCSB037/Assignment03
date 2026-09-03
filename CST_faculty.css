@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 30px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+}
+
+.search {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#facultyInput {
+    padding: 10px;
+    width: 250px;
+}
+
+#searchButton {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#message {
+    text-align: center;
+    font-weight: bold;
+}
+
+#profile {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 25px;
+    background-color: white;
+    text-align: center;
+}
+
+#facultyPhoto {
+    width: 180px;
+    height: 200px;
+    object-fit: cover;
+}
+
+#facultyEmail {
+    color: #555;
+}
+
+#profile ul {
+    text-align: left;
+}
